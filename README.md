@@ -1,4 +1,5 @@
 # Proyecto-Final
+Autoras:
 Madeleine palacios Baltan
 Isabella Moreno Gomez
 # Descripcion
@@ -6,6 +7,7 @@ Aplicación de escritorio para la gestión y venta de productos de pastelería a
 
 # Problema 
 la pastelería Duleittes actualmente presenta dificultades para organizar y centralizar la información de sus productos, debido a que la interacción con los clientes y la promoción se realizan principalmente mediante redes sociales y canales digitales. Esto puede dificultar la presentación del catálogo, la consulta de productos y precios, así como la gestión de pedidos. Además, a medida que el emprendimiento busca crecer, surge la necesidad de contar con un espacio digital propio que facilite estos procesos y mejore la interacción con los clientes.
+
 <img width="938" height="703" alt="image" src="https://github.com/user-attachments/assets/a085f774-4597-4371-a6f4-ccd406a09ef5" />
 
 # Usuario
@@ -38,5 +40,6 @@ En resumen, el frontend se encarga de mostrar la información y recibir las acci
 Realizamos entrevistas a diferentes usuarios para evaluar la facilidad de uso y la funcionalidad de la aplicación. Los participantes lograron completar las tareas sin ayuda y destacaron que la navegación, los botones y la información son claros y fáciles de entender.
 También se validaron funciones importantes como el registro e inicio de sesión, catálogo de productos, consulta de ingredientes, carrito de compras y proceso de pedido. Los usuarios consideraron que estas funciones facilitan y agilizan la compra.
 Como resultado, la mayoría indicó que utilizaría la aplicación en una situación real y que podría ser una solución útil para emprendimientos o panaderías, confirmando que la propuesta responde a las necesidades identificadas.
+
 <img width="296" height="223" alt="image" src="https://github.com/user-attachments/assets/efedc58f-ee42-4703-9d60-361aafd1476b" />
 <img width="293" height="219" alt="image" src="https://github.com/user-attachments/assets/73a4f240-b078-44b0-b4c3-09585b6b377b" />
